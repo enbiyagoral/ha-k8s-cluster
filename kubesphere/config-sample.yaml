@@ -8,7 +8,7 @@ spec:
   - {name: master2, address: 192.168.56.202, internalAddress: 192.168.56.202, user: root, password: "admin"}
   - {name: master3, address: 192.168.56.203, internalAddress: 192.168.56.203, user: root, password: "admin"}
   - {name: worker1, address: 192.168.56.251, internalAddress: 192.168.56.251, user: root, password: "admin"}
-  - {name: worker1, address: 192.168.56.252, internalAddress: 192.168.56.252, user: root, password: "admin"}
+  - {name: worker2, address: 192.168.56.252, internalAddress: 192.168.56.252, user: root, password: "admin"}
   - {name: lb1, address: 192.168.56.101, internalAddress: 192.168.56.101, user: root, password: "admin"}
   - {name: lb2, address: 192.168.56.102, internalAddress: 192.168.56.102, user: root, password: "admin"}
   roleGroups:
